@@ -1,42 +1,29 @@
 package feb.three;
 
-/**
- * 
- */
- class Mobile  {
+class Mobile {
 
-    int price ;
-     static String name ;
+    // int price;
+    static String name;
 
+    // public Mobile() {
+    //     price = 200;
+    //     System.out.println("constructor");
+    // }
 
-     public  void show ()
-     {
-        System.out.println( price +" "+ name    );
-     }
+    static {
+        name = "raaj";
+        System.out.println("static");
+    }
+
     
 }
 
-
 public class StaticMethodJava {
-    public static void main(String[] args) {
-        
-        Mobile m = new Mobile();
-        m.price= 400;
-        Mobile m1 = new Mobile();
-        m1.price= 400;
-        Mobile m2 = new Mobile();
-        m2.price= 400;
+    public static void main(String[] args) throws ClassNotFoundException {
+        Class.forName("feb.three.Mobile");
 
-        Mobile.name= "lava";
-
-    //    Mobile.show();
-    m.show();
-    
-    m1.show();
-    m2.show();
-
-
-
+        // Creating an instance of Mobile and calling the show method
+        // Mobile mobileInstance = new Mobile();
+        // mobileInstance.show();
     }
-    
 }
