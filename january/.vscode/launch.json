@@ -1,0 +1,321 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Enhanced",
+            "request": "launch",
+            "mainClass": "day23.Enhanced",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "ArrayOfObject",
+            "request": "launch",
+            "mainClass": "day22.Pracarray.ArrayOfObject",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "ThreeArray",
+            "request": "launch",
+            "mainClass": "day22.Pracarray.ThreeArray",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "ArrayOfObject",
+            "request": "launch",
+            "mainClass": "day22.ArrayOfObject",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "JagedArray",
+            "request": "launch",
+            "mainClass": "Day21.JagedArray",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "ThreeDimensionalArray",
+            "request": "launch",
+            "mainClass": "Day20th.ThreeDimensionalArray",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "TwoDimensionalArray",
+            "request": "launch",
+            "mainClass": "Day20th.TwoDimensionalArray",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Arry",
+            "request": "launch",
+            "mainClass": "Day20th.Arry",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Arry",
+            "request": "launch",
+            "mainClass": "Arry",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "AdditionByMethods",
+            "request": "launch",
+            "mainClass": "Day17th.AdditionByMethods",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Cal",
+            "request": "launch",
+            "mainClass": "Day17th.Cal",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "ArrTwo",
+            "request": "launch",
+            "mainClass": "Day16th.ArrTwo",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Ary",
+            "request": "launch",
+            "mainClass": "Day16th.Ary",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Add",
+            "request": "launch",
+            "mainClass": "Day16th.Add",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Fifo",
+            "request": "launch",
+            "mainClass": "Day15th.Fifo",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "TableTo",
+            "request": "launch",
+            "mainClass": "Day15th.TableTo",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "ForTech",
+            "request": "launch",
+            "mainClass": "Day15th.ForTech",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Lopiie",
+            "request": "launch",
+            "mainClass": "Day14th.Lopiie",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Shap",
+            "request": "launch",
+            "mainClass": "Day13th.Shap",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Month",
+            "request": "launch",
+            "mainClass": "Day13th.Month",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "NewSwiCase",
+            "request": "launch",
+            "mainClass": "Day13th.NewSwiCase",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "SwiCase",
+            "request": "launch",
+            "mainClass": "Day13th.SwiCase",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "TernOp",
+            "request": "launch",
+            "mainClass": "Day13th.TernOp",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Calc",
+            "request": "launch",
+            "mainClass": "Calc",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Vov",
+            "request": "launch",
+            "mainClass": "Vov",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Week",
+            "request": "launch",
+            "mainClass": "Day12th.Week",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Time_Of_Day",
+            "request": "launch",
+            "mainClass": "Day12th.Time_Of_Day",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "School",
+            "request": "launch",
+            "mainClass": "School",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Trry",
+            "request": "launch",
+            "mainClass": "Trry",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Caal",
+            "request": "launch",
+            "mainClass": "oprator.Caal",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Cak1",
+            "request": "launch",
+            "mainClass": "oprator.Cak1",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Caal1",
+            "request": "launch",
+            "mainClass": "oprator.Caal1",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Cal",
+            "request": "launch",
+            "mainClass": "oprator.Cal",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Typecasting",
+            "request": "launch",
+            "mainClass": "Typecasting",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "t14.Main",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "t13.Main",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "y12.Main",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "y11.Main",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Obj",
+            "request": "launch",
+            "mainClass": "t10th.Obj",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "New",
+            "request": "launch",
+            "mainClass": "New",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "fifth.Main",
+            "projectName": "JAVA_f36c8a55"
+        },
+        {
+            "type": "java",
+            "name": "Yash",
+            "request": "launch",
+            "mainClass": "four.Yash",
+            "projectName": "JAVA_f36c8a55"
+        }
+    ]
+}

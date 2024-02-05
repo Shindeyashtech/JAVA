@@ -1,0 +1,19 @@
+. *Enum in Switch:*
+   - Define an enumeration for the days of the week and write a Java program using a switch statement to perform different actions based on the day.
+
+6. *Default Case:*
+   - Write a Java program using a switch statement to determine whether a given character is a vowel or a consonant. Use a default case to handle invalid inputs.
+
+7. *Nested Switch Statements:*
+   - Implement a Java program that uses nested switch statements to determine the type of a vehicle (car, motorcycle, bicycle) based on its attributes (number of wheels, engine type).
+
+8. *Fall-Through Behavior:*
+   - Create a Java program with a switch statement where fall-through behavior is intentionally utilized to handle multiple related cases.
+
+9. *Combining Switch with Other Constructs:*
+   - Develop a Java program that combines the switch statement with other control flow constructs (loops, if statements) to implement a simple menu-driven application.
+
+10. *Error Handling:*
+    - Extend the previous program to include error handling for unexpected input using the default case.
+
+Feel free to try these exercises to reinforce your understanding of the switch statement in Java. Additionally, you can modify the scenarios or create new ones to further enhance your skills.
